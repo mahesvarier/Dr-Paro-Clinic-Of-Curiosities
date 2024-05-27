@@ -481,6 +481,411 @@ document.addEventListener("DOMContentLoaded", function () {
                 "question": "What's a doctor's favorite animal?",
                 "options": ["A 'nurse' shark!", "A 'lab' retriever!", "A 'heart' worm!", "A 'medic' cat!"],
                 "answer": "b"
+            },
+            {
+                "question": "Why did the doctor bring a suitcase?",
+                "options": ["To carry his 'case' load!", "For 'travel' prescriptions!", "To pack 'healthy' snacks!", "For 'emergency' vacations!"],
+                "answer": "a"
+            },
+            {
+                "question": "What do you call a doctor who fixes broken hearts?",
+                "options": ["A 'cardiologist'!", "A 'heart' mender!", "A 'love' doctor!", "A 'pulse' fixer!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor become an artist?",
+                "options": ["To 'draw' patients in!", "To 'paint' diagnoses!", "For 'creative' treatments!", "To 'color' health!"],
+                "answer": "a"
+            },
+            {
+                "question": "What's a doctor's favorite season?",
+                "options": ["'Flu' season!", "'Spring' into health!", "'Winter' wellness!", "'Summer' vitality!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why do doctors make good comedians?",
+                "options": ["They have 'patient' jokes!", "They 'diagnose' humor!", "They know 'sick' humor!", "They 'prescribe' laughter!"],
+                "answer": "a"
+            },
+            {
+                "question": "What's a doctor's favorite place to relax?",
+                "options": ["The 'clinic' lounge!", "A 'hospital' bed!", "The 'doctor's' den!", "A 'wellness' retreat!"],
+                "answer": "b"
+            },
+            {
+                "question": "Why did the doctor become a referee?",
+                "options": ["To 'call' shots!", "For 'fair' diagnoses!", "To 'whistle' at sickness!", "To 'judge' health!"],
+                "answer": "c"
+            },
+            {
+                "question": "What's a doctor's favorite hobby?",
+                "options": ["'Diagnosing' issues!", "'Treating' patients!", "'Researching' health!", "'Prescribing' hobbies!"],
+                "answer": "d"
+            },
+            {
+                "question": "Why did the doctor buy a new car?",
+                "options": ["To make 'house' calls!", "For 'emergency' rides!", "To 'drive' health!", "For 'quick' diagnoses!"],
+                "answer": "a"
+            },
+            {
+                "question": "What's a doctor's favorite sport?",
+                "options": ["'Surgical' precision!", "'Diagnostic' darts!", "'Healthy' hurdles!", "'Prescription' polo!"],
+                "answer": "b"
+            },
+            {
+                "question": "Why did the doctor become a teacher?",
+                "options": ["To 'educate' patients!", "For 'learning' health!", "To 'lecture' on wellness!", "To 'diagnose' students!"],
+                "answer": "c"
+            },
+            {
+                "question": "What's a doctor's favorite flower?",
+                "options": ["A 'rose' for heart!", "A 'lily' for peace!", "A 'daisy' for wellness!", "A 'tulip' for color!"],
+                "answer": "d"
+            },
+            {
+                "question": "Why did the doctor go to the library?",
+                "options": ["For 'medical' books!", "To 'study' health!", "For 'quiet' diagnostics!", "To 'read' prescriptions!"],
+                "answer": "a"
+            },
+            {
+                "question": "What's a doctor's favorite ice cream flavor?",
+                "options": ["'Healthy' vanilla!", "'Medicinal' mint!", "'Surgical' strawberry!", "'Prescriptive' pistachio!"],
+                "answer": "b"
+            },
+            {
+                "question": "Why did the doctor join the circus?",
+                "options": ["To 'balance' health!", "For 'circus' medicine!", "To 'diagnose' clowns!", "For 'healing' tricks!"],
+                "answer": "c"
+            },
+            {
+                "question": "What's a doctor's favorite toy?",
+                "options": ["A 'stethoscope' doll!", "'Surgical' blocks!", "'Medical' cars!", "'Diagnostic' puzzles!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor buy a bicycle?",
+                "options": ["For 'cardio' fitness!", "To 'cycle' health!", "For 'speedy' rounds!", "To 'balance' patients!"],
+                "answer": "b"
+            },
+            {
+                "question": "What's a doctor's favorite type of weather?",
+                "options": ["'Sunny' wellness!", "'Rainy' diagnoses!", "'Cloudy' comfort!", "'Windy' recovery!"],
+                "answer": "c"
+            },
+            {
+                "question": "Why did the doctor get a pet fish?",
+                "options": ["For 'calm' diagnostics!", "To 'prescribe' swims!", "For 'aquatic' therapy!", "To 'study' health!"],
+                "answer": "d"
+            },
+            {
+                "question": "What's a doctor's favorite board game?",
+                "options": ["'Operation'!", "'Diagnosis' chess!", "'Medical' monopoly!", "'Prescription' poker!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor start a podcast?",
+                "options": ["To 'broadcast' health!", "For 'sound' advice!", "To 'diagnose' online!", "For 'listening' prescriptions!"],
+                "answer": "b"
+            },
+            {
+                "question": "What's a doctor's favorite type of movie?",
+                "options": ["A 'healthy' documentary!", "'Medical' drama!", "'Surgical' thriller!", "'Prescription' comedy!"],
+                "answer": "c"
+            },
+            {
+                "question": "Why did the doctor buy a camera?",
+                "options": ["To 'capture' health!", "For 'diagnostic' photos!", "To 'record' patient progress!", "For 'medical' memories!"],
+                "answer": "a"
+            },
+            {
+                "question": "What's a doctor's favorite fabric?",
+                "options": ["'Surgical' silk!", "'Medical' cotton!", "'Health' polyester!", "'Diagnostic' denim!"],
+                "answer": "b"
+            },
+            {
+                "question": "Why did the doctor get a haircut?",
+                "options": ["For 'clean' diagnostics!", "To 'cut' sickness!", "For 'hygiene' health!", "To 'trim' appointments!"],
+                "answer": "c"
+            },
+            {
+                "question": "What's a doctor's favorite dessert topping?",
+                "options": ["'Healthy' berries!", "'Medical' sprinkles!", "'Surgical' syrup!", "'Prescription' nuts!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor go hiking?",
+                "options": ["For 'cardio' benefits!", "To 'climb' wellness!", "For 'fresh' air!", "To 'prescribe' nature!"],
+                "answer": "b"
+            },
+            {
+                "question": "What's a doctor's favorite gadget?",
+                "options": ["A 'stethoscope'!", "A 'diagnostic' tool!", "A 'health' monitor!", "A 'medical' device!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor play the piano?",
+                "options": ["For 'musical' health!", "To 'prescribe' tunes!", "For 'therapeutic' keys!", "To 'diagnose' harmony!"],
+                "answer": "c"
+            },
+            {
+                "question": "What's a doctor's favorite vehicle?",
+                "options": ["An 'ambulance'!", "A 'health' car!", "A 'medical' bike!", "A 'diagnostic' van!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor bring a calendar?",
+                "options": ["For 'scheduled' appointments!", "To 'diagnose' dates!", "To 'mark' wellness!", "For 'prescriptive' days!"],
+                "answer": "d"
+            },
+            {
+                "question": "What's a doctor's favorite accessory?",
+                "options": ["A 'watch' for time!", "'Medical' gloves!", "'Diagnostic' glasses!", "'Health' mask!"],
+                "answer": "b"
+            },
+            {
+                "question": "Why did the doctor go skydiving?",
+                "options": ["For 'adrenaline' rush!", "To 'diagnose' heights!", "For 'extreme' wellness!", "To 'prescribe' thrills!"],
+                "answer": "a"
+            },
+            {
+                "question": "What's a doctor's favorite dance?",
+                "options": ["The 'stethoscope' shuffle!", "'Surgical' slide!", "'Diagnostic' dance!", "'Medical' mambo!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor get a tattoo?",
+                "options": ["For 'artistic' expression!", "To 'ink' health!", "For 'medical' symbols!", "To 'diagnose' beauty!"],
+                "answer": "a"
+            },
+            {
+                "question": "What's a doctor's favorite sandwich?",
+                "options": ["A 'healthy' wrap!", "A 'medical' sub!", "A 'diagnostic' deli!", "A 'prescriptive' panini!"],
+                "answer": "b"
+            },
+            {
+                "question": "Why did the doctor go fishing?",
+                "options": ["To 'catch' wellness!", "For 'calm' diagnostics!", "To 'reel in' health!", "For 'therapeutic' relaxation!"],
+                "answer": "c"
+            },
+            {
+                "question": "What's a doctor's favorite instrument?",
+                "options": ["A 'thermometer'!", "'Medical' saxophone!", "'Diagnostic' guitar!", "'Health' violin!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor visit a museum?",
+                "options": ["For 'historical' health!", "To 'diagnose' art!", "For 'educational' wellness!", "To 'study' exhibitions!"],
+                "answer": "b"
+            },
+            {
+                "question": "What's a doctor's favorite fruit?",
+                "options": ["An 'apple' a day!", "'Medical' mango!", "'Diagnostic' dates!", "'Health' banana!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor start gardening?",
+                "options": ["To 'grow' health!", "For 'plant' therapy!", "To 'harvest' wellness!", "For 'botanical' diagnostics!"],
+                "answer": "a"
+            },
+            {
+                "question": "What's a doctor's favorite pet?",
+                "options": ["A 'therapeutic' dog!", "'Medical' cat!", "'Diagnostic' bird!", "'Health' fish!"],
+                "answer": "b"
+            },
+            {
+                "question": "Why did the doctor buy new shoes?",
+                "options": ["For 'walking' therapy!", "To 'step' into health!", "For 'medical' comfort!", "To 'run' diagnostics!"],
+                "answer": "c"
+            },
+            {
+                "question": "What's a doctor's favorite drink?",
+                "options": ["'Healthy' water!", "'Medical' tea!", "'Diagnostic' coffee!", "'Prescription' juice!"],
+                "answer": "b"
+            },
+            {
+                "question": "Why did the doctor go to a comedy show?",
+                "options": ["For 'laughter' therapy!", "To 'diagnose' humor!", "For 'funny' prescriptions!", "To 'study' jokes!"],
+                "answer": "a"
+            },
+            {
+                "question": "What's a doctor's favorite animal?",
+                "options": ["A 'therapy' dog!", "'Medical' monkey!", "'Diagnostic' dolphin!", "'Health' horse!"],
+                "answer": "c"
+            },
+            {
+                "question": "Why did the doctor take up knitting?",
+                "options": ["To 'weave' health!", "For 'therapeutic' stitching!", "To 'craft' wellness!", "For 'diagnostic' patterns!"],
+                "answer": "b"
+            },
+            {
+                "question": "What's a doctor's favorite tree?",
+                "options": ["A 'healthy' oak!", "'Medical' maple!", "'Diagnostic' pine!", "'Wellness' willow!"],
+                "answer": "d"
+            },
+            {
+                "question": "Why did the doctor write a book?",
+                "options": ["To 'record' diagnoses!", "For 'medical' stories!", "To 'share' health tips!", "For 'therapeutic' writing!"],
+                "answer": "c"
+            },
+            {
+                "question": "What's a doctor's favorite subject?",
+                "options": ["'Biology' of health!", "'Medical' science!", "'Diagnostic' math!", "'Health' history!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor start cooking?",
+                "options": ["For 'nutritional' therapy!", "To 'cook' health!", "For 'delicious' diagnostics!", "To 'prescribe' meals!"],
+                "answer": "b"
+            },
+            {
+                "question": "What's a doctor's favorite vacation spot?",
+                "options": ["A 'healing' spa!", "'Medical' retreat!", "'Wellness' resort!", "'Therapeutic' beach!"],
+                "answer": "c"
+            },
+            {
+                "question": "Why did the doctor take singing lessons?",
+                "options": ["For 'vocal' therapy!", "To 'diagnose' notes!", "For 'musical' health!", "To 'prescribe' songs!"],
+                "answer": "a"
+            },
+            {
+                "question": "What's a doctor's favorite number?",
+                "options": ["'One' for health!", "'Two' for balance!", "'Three' for wellness!", "'Four' for diagnostics!"],
+                "answer": "b"
+            },
+            {
+                "question": "Why did the doctor become a photographer?",
+                "options": ["To 'capture' health!", "For 'diagnostic' shots!", "To 'picture' wellness!", "For 'prescriptive' images!"],
+                "answer": "c"
+            },
+            {
+                "question": "What's a doctor's favorite candy?",
+                "options": ["'Healthy' honey!", "'Medical' mints!", "'Diagnostic' drops!", "'Therapeutic' taffy!"],
+                "answer": "b"
+            },
+            {
+                "question": "Why did the doctor become a chef?",
+                "options": ["For 'nutritious' meals!", "To 'cook' wellness!", "For 'prescriptive' recipes!", "To 'diagnose' dishes!"],
+                "answer": "a"
+            },
+            {
+                "question": "What's a doctor's favorite book genre?",
+                "options": ["'Medical' mysteries!", "'Health' histories!", "'Diagnostic' thrillers!", "'Therapeutic' tales!"],
+                "answer": "c"
+            },
+            {
+                "question": "Why did the doctor get a new computer?",
+                "options": ["For 'digital' health!", "To 'type' prescriptions!", "For 'diagnostic' software!", "To 'research' wellness!"],
+                "answer": "b"
+            },
+            {
+                "question": "What's a doctor's favorite kind of joke?",
+                "options": ["A 'healthy' pun!", "'Medical' humor!", "'Diagnostic' wit!", "'Therapeutic' chuckles!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor join a gym?",
+                "options": ["For 'exercise' therapy!", "To 'prescribe' fitness!", "For 'cardio' health!", "To 'diagnose' workouts!"],
+                "answer": "c"
+            },
+            {
+                "question": "What's a doctor's favorite time of day?",
+                "options": ["'Morning' rounds!", "'Noon' diagnoses!", "'Evening' checkups!", "'Night' prescriptions!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor buy a boat?",
+                "options": ["For 'water' therapy!", "To 'sail' wellness!", "For 'marine' diagnostics!", "To 'prescribe' calm!"],
+                "answer": "b"
+            },
+            {
+                "question": "What's a doctor's favorite part of the body?",
+                "options": ["The 'heart' of health!", "The 'brain' of wellness!", "The 'lungs' of life!", "The 'bones' of strength!"],
+                "answer": "c"
+            },
+            {
+                "question": "Why did the doctor go skiing?",
+                "options": ["For 'snow' therapy!", "To 'diagnose' slopes!", "For 'mountain' health!", "To 'prescribe' fun!"],
+                "answer": "d"
+            },
+            {
+                "question": "What's a doctor's favorite type of vacation?",
+                "options": ["A 'healing' retreat!", "'Medical' adventures!", "'Wellness' trips!", "'Therapeutic' tours!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor start running?",
+                "options": ["For 'cardio' health!", "To 'chase' wellness!", "For 'exercise' therapy!", "To 'prescribe' movement!"],
+                "answer": "b"
+            },
+            {
+                "question": "What's a doctor's favorite way to relax?",
+                "options": ["A 'massage' session!", "'Medical' mindfulness!", "'Therapeutic' rest!", "'Wellness' retreat!"],
+                "answer": "c"
+            },
+            {
+                "question": "Why did the doctor become a writer?",
+                "options": ["To 'record' health!", "For 'medical' stories!", "To 'diagnose' with words!", "For 'therapeutic' writing!"],
+                "answer": "a"
+            },
+            {
+                "question": "What's a doctor's favorite type of art?",
+                "options": ["'Medical' illustrations!", "'Diagnostic' paintings!", "'Health' sculptures!", "'Therapeutic' sketches!"],
+                "answer": "b"
+            },
+            {
+                "question": "Why did the doctor buy a telescope?",
+                "options": ["To 'study' stars!", "For 'diagnostic' stargazing!", "To 'prescribe' the cosmos!", "For 'astronomical' health!"],
+                "answer": "c"
+            },
+            {
+                "question": "What's a doctor's favorite breakfast?",
+                "options": ["'Healthy' oatmeal!", "'Medical' eggs!", "'Diagnostic' toast!", "'Therapeutic' smoothies!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor take up painting?",
+                "options": ["For 'art' therapy!", "To 'color' health!", "For 'creative' diagnostics!", "To 'prescribe' art!"],
+                "answer": "b"
+            },
+            {
+                "question": "What's a doctor's favorite pizza topping?",
+                "options": ["'Healthy' veggies!", "'Medical' mushrooms!", "'Diagnostic' cheese!", "'Therapeutic' pepperoni!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor get a pet bird?",
+                "options": ["For 'feathery' therapy!", "To 'chirp' health!", "For 'avian' diagnostics!", "To 'prescribe' peace!"],
+                "answer": "d"
+            },
+            {
+                "question": "What's a doctor's favorite soup?",
+                "options": ["'Healthy' chicken!", "'Medical' mushroom!", "'Diagnostic' vegetable!", "'Therapeutic' tomato!"],
+                "answer": "a"
+            },
+            {
+                "question": "Why did the doctor join a choir?",
+                "options": ["For 'musical' health!", "To 'diagnose' harmony!", "For 'vocal' therapy!", "To 'prescribe' songs!"],
+                "answer": "c"
+            },
+            {
+                "question": "What's a doctor's favorite plant?",
+                "options": ["'Healing' aloe!", "'Medical' mint!", "'Diagnostic' dandelion!", "'Therapeutic' thyme!"],
+                "answer": "b"
+            },
+            {
+                "question": "Why did the doctor buy new glasses?",
+                "options": ["For 'clear' diagnoses!", "To 'see' health!", "For 'optical' wellness!", "To 'prescribe' vision!"],
+                "answer": "a"
+            },
+            {
+                "question": "What's a doctor's favorite scent?",
+                "options": ["'Fresh' mint!", "'Medical' lavender!", "'Diagnostic' eucalyptus!", "'Therapeutic' rosemary!"],
+                "answer": "c"
+            },
+            {
+                "question": "Why did the doctor take up yoga?",
+                "options": ["For 'flexible' health!", "To 'diagnose' poses!", "For 'mind-body' wellness!", "To 'prescribe' peace!"],
+                "answer": "c"
             }
         ]
 
