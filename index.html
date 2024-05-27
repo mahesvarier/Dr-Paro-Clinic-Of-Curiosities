@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Mobile-friendly styles */
+        @media (max-width: 480px) {
+            .quiz-container {
+                padding: 10px;
+            }
+            h1 {
+                font-size: 24px;
+            }
+            #gif iframe {
+                width: 100%;
+            }
+        }
+    </style>
+    <title>Dr. Paro's Clinic of Curiosities!</title>
+</head>
+
+<body>
+    <div class="quiz-container">
+        <h1>Welcome to Dr. Paro's Clinic of Curiosities!</h1>
+        <div id="question-container">
+            <!-- Question and options will be inserted here -->
+        </div>
+        <div class="button-container">
+            <button id="submit-btn">Submit</button>
+            <button id="next-btn" style="display: none;">Next Question</button>
+        </div>
+        <div id="result">
+            <p id="result-text"></p>
+        </div>
+
+        <div class="center-align" id="gif" style="display: none;">
+            <iframe allow="fullscreen" src="" frameBorder="0" height="270" width="480"></iframe>
+        </div>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

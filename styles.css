@@ -1,0 +1,79 @@
+/* Add a background color and some padding to the quiz container */
+.quiz-container {
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2; /* Light gray background color */
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.legal-question {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.options-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* Center items vertically */
+}
+
+.options-container label {
+    display: block;
+    margin: 8px 0;
+    font-size: 16px;
+    cursor: pointer;
+    color: #555;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center; /* Center buttons horizontally */
+}
+
+#submit-btn,
+#next-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ff69b4; /* Pink button color */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s; /* Add transition for transform */
+}
+
+#submit-btn:hover,
+#next-btn:hover {
+    background-color: #ff1493; /* Darker pink color on hover */
+    transform: scale(1.05); /* Slightly enlarge the button on hover */
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #d9534f; /* Red color for result message */
+    font-style: italic; /* Make the result message italic */
+    transition: color 0.3s; /* Add transition for color change */
+}
+
+#result.correct {
+    color: #5cb85c; /* Green color for correct answers */
+}
+
+#result.incorrect {
+    color: #d9534f; /* Red color for incorrect answers */
+}
+
+.center-align {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust the height as needed */
+}
+
