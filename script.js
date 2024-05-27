@@ -113,27 +113,20 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     function displayRandomQuestion() {
-        // Get a random index for the next question
-        const index = getRandomQuestionIndex();
-        if (index !== undefined) {
-            debugger;
-            const question = questions[index];
-            const options = question.options.map((option, idx) => `
+        if (currentQuestionIndex >= questions.length) return;
+        const question = questions[currentQuestionIndex];
+        const options = question.options.map((option, idx) => `
             <label>
                 <input type="radio" name="answer" value="${String.fromCharCode(97 + idx)}"> ${option}
             </label>
         `).join('');
 
-            if (questionCounter != 1) questionCounter++;
-            questionContainer.innerHTML = `
+        questionContainer.innerHTML = `
             <p class="question-counter">Question ${questionCounter}/${questions.length}</p>
-            <p class="legal-question">${question.question}</p>
+            <p>${question.question}</p>
             <div class="options-container">${options}</div>
         `;
-
-            // Add the index to the shown question indices
-            shownQuestionIndices.push(index);
-        }
+        questionCounter++;
     }
 
     // Call displayRandomQuestion to show the first question
@@ -888,7 +881,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 "answer": "c"
             }
         ]
-
 
         return questions;
     }
